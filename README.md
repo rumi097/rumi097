@@ -11,6 +11,7 @@ I'm Rumi, a dedicated **Computer Science and Engineering** student at **Rajshahi
 - 🏆 **Competitive Programmer** | Active on Codeforces , CodeChef, and more
 - 💻 **Problem Solver** | 1000+ problems solved on many platform
 - 🔧 Built **CP-Problem-Tracker** - A Chrome extension for competitive programmers
+- 🔧 Built **Buisness-Tracker** - A web app to maintain multiple buisness
 - 🚀 My journey in technology is fueled by an insatiable curiosity and a drive to explore the latest innovations
 - 👯 Always eager to collaborate on challenging projects and learn from the community
 - 📫 How to reach me: **[aliazgorrumi@gmail.com](mailto:aliazgorrumi@gmail.com)**
