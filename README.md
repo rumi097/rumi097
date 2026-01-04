@@ -75,16 +75,20 @@ const rumi = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rumi097&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rumi097&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumi097&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rumi097&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rumi097&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rumi097&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&sideLabels=00F7F7&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rumi097&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumi097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rumi097&custom_title=Ali%20Azgor%20Rumi's%20Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&theme=tokyo-night" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rumi097&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -137,3 +141,7 @@ const rumi = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
