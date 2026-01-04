@@ -80,12 +80,23 @@ const rumi = {
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rumi097&custom_title=Ali%20Azgor%20Rumi's%20Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumi097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rumi097&custom_title=Ali%20Azgor%20Rumi's%20Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rumi097&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
