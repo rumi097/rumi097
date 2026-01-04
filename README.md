@@ -18,11 +18,6 @@ const rumi = {
     degree: "Computer Science and Engineering",
     location: "Rajshahi, Bangladesh 🇧🇩",
     interests: ["Competitive Programming", "Web Development", "Algorithms"],
-    achievements: {
-        problemsSolved: "1000+",
-        platforms: ["Codeforces", "CodeChef", "LeetCode"],
-        projects: ["CP-Problem-Tracker", "Business-Tracker"]
-    },
     currentlyLearning: ["Advanced Algorithms", "System Design", "React"],
     motto: "Code. Solve. Repeat. 🔄"
 };
@@ -72,31 +67,6 @@ const rumi = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problemset/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
 
-<br>
-
-### 📈 Competitive Programming Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Codeforces-320%2B-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-      <br><b>Problems Solved</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Max%20Rating-948-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-      <br><b>Peak Rating</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CodeChef-28%2B-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-      <br><b>Problems Solved</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total-1000%2B-00EA64?style=flat-square&logo=checkmarx&logoColor=white" />
-      <br><b>Overall</b>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -130,7 +100,7 @@ const rumi = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b092-26d5b5516480.png" width="30" /> Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect With Me
 
 <div align="center">
 
@@ -153,33 +123,17 @@ const rumi = {
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
-
----
-
-<div align="center">
-  
-### 📊 Profile Views Counter
+### 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=rumi097&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br>
-
-**💡 "The only way to learn a new programming language is by writing programs in it."**
-<br>
-*— Dennis Ritchie*
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+**💡 "The only way to learn a new programming language is by writing programs in it."** — *Dennis Ritchie*
 
 ### ⭐ Don't forget to star my repositories if you find them useful!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 *Last Updated: January 2026*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
-</div>
